@@ -19,3 +19,5 @@ The application demonstrates a basic healthcare frontend system with authenticat
 Dockerized setup using Docker Compose
 
 To start the frontend application, run: docker-compose up
+
+Note the backend must be running in order to have the frontend working as well !
