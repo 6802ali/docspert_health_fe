@@ -20,4 +20,6 @@ Dockerized setup using Docker Compose
 
 To start the frontend application, run: docker-compose up --build
 
+To start the application, run: docker-compose up
+
 Note the backend must be running in order to have the frontend working as well !
