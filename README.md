@@ -9,30 +9,14 @@ The application demonstrates a basic healthcare frontend system with authenticat
 
 🚀 Features
 
-🔐 Basic Authentication
-
-Login Page
-
-Registration Page
-
-🏠 Home Page
-
-👩‍⚕️ Patients Page
-
-💬 Consultation Page
+1) Basic Authentication
+2) Login Page
+3) Registration Page
+4) Home Page
+5)Patients Page
+6)Consultation Page
 
 Dockerized setup using Docker Compose
 
 
-🛠️ Tech Stack
-
-React.js
-
-Vite
-
-Docker
-
-Docker Compose
-
 To start the frontend application, run: docker-compose up
-
