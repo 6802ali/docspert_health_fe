@@ -13,10 +13,9 @@ The application demonstrates a basic healthcare frontend system with authenticat
 2) Login Page
 3) Registration Page
 4) Home Page
-5)Patients Page
-6)Consultation Page
+5) Patients Page
+6) Consultation Page
 
 Dockerized setup using Docker Compose
-
 
 To start the frontend application, run: docker-compose up
